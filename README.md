@@ -1,16 +1,13 @@
-### Hi there 👋
+# 류석준 / haxhhiker 🌌
 
-<!--
-**haxhhiker/haxhhiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+  
+**History** 
+- pentesting.kr (모의 침투 연구회) (2019.11 ~ ) <img height="20" width="20" src="" />
+- IT convergence major, School of Electrical Engineering, Soongsil Univ. (2022.03 ~ ) <img height="20" width="20" src="" />
+- Samsung Software Developer Community BCP (Bjarne Course Party) Leader (2022.12 ~ ) <img height="20" width="20" src="" />
+- Hacking team, Snatch the Flag (2023.02 ~ ) <img height="20" width="20" src="" />
+- Republic of Korea Army (2023.02 ~ 2024.08) <img height="20" width="20" src="" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
