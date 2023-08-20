@@ -1,7 +1,12 @@
 # 류석준 / haxhhiker 🌌
 
 <br>
-  
+
+**Interest** 
+- Web hacking
+- System hacking
+- Linux kernel
+
 **History** 
 - pentesting.kr (모의 침투 연구회) (2019.11 ~ )
 - IT convergence major, School of Electrical Engineering, Soongsil Univ. (2022.03 ~ ) 
