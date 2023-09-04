@@ -6,6 +6,7 @@
 - Web hacking
 - System hacking
 - Linux kernel
+- Reverse engineering
 
 **History** 
 - pentesting.kr (모의 침투 연구회) (2019.11 ~ )
