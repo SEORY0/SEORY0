@@ -8,7 +8,7 @@
 - Reverse engineering
 
 **Activities**
-- (2022.12 - ) Samsung Software Developer Community BCP (Bjarne Course Party) Leader 
+- (2022.12 - ) Samsung Software Developer Community - Team BCP Leader 
 - (2024.08.) Hacking Camp 29th
 
 **Education** 
