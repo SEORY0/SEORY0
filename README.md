@@ -1,15 +1,16 @@
-# 류석준 / haxhhiker 🌌
+# 류석준 / Seokjun Ryu 🌌
 
 <br>
 
 **Interest** 
 - Web hacking
 - System hacking
-- Linux kernel
 - Reverse engineering
 
-**History** 
+**Activities**
+- (2022.12 - ) Samsung Software Developer Community BCP (Bjarne Course Party) Leader 
+- (2024.08.) Hacking Camp 29th
+
+**Education** 
 - pentesting.kr (모의 침투 연구회) (2019.11 ~ )
-- IT convergence major, School of Electrical Engineering, Soongsil Univ. (2022.03 ~ ) 
-- Samsung Software Developer Community BCP (Bjarne Course Party) Leader (2022.12 ~ ) 
-- Snatch the Flag (2023.02 ~ ) 
+- (2022.03 - ) Soongsil University - IT convergence major, School of Electrical Engineering 
