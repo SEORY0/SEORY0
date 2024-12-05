@@ -12,5 +12,4 @@
 - (2024.08.) Hacking Camp 29th
 
 **Education** 
-- pentesting.kr (모의 침투 연구회) (2019.11 ~ )
 - (2022.03 - ) Soongsil University - IT convergence major, School of Electrical Engineering 
