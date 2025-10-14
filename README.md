@@ -8,7 +8,7 @@
 ## Activities
 - (2022.12 - ) Team BCP Leader - Samsung Software Developer Community 
 - (2024.08.) Hacking Camp 29th - POC Security
-- (2025.03 - ) WhiteHat School 3rd - KITRI
+- (2025.03 - 09.) WhiteHat School 3rd - KITRI
 - (2025.03 - ) ASC (Soongsil University Academic Security Club)
 
 ## Education 
