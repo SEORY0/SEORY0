@@ -1,8 +1,6 @@
 # 류석준 / Seokjun Ryu
 
 ## Interests
-- Web hacking
-- System hacking
 - Reverse engineering
 
 ## Activities
